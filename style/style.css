@@ -70,8 +70,7 @@ body {
 
 #mapid { 
     height: 30rem;
-    margin-top:0;
-    position: absolute;
+    position: relative;
     z-index:50;
 }
 
